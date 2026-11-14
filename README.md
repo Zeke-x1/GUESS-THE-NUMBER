@@ -1,6 +1,6 @@
-# Darkness Guess The Number Game
+# Guess The Number Game
 
-A minimalist web-based number guessing game built with Python (Flask), HTML5, CSS3, and JavaScript.
+A minimalist web-based number guessing game built with Python (Flask), HTML, CSS, and JavaScript
 
 ## Features
 - Range: 1 to 100
